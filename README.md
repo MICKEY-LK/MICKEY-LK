@@ -16,7 +16,7 @@
 > profile
 ```
 
-<img align="left" src="https://i.ibb.co/MGTm1KS/20241024-183301.jpg" width="130px"/> 
+<img align="left" src="https://i.ibb.co/wBPxJxy/187432059.jpg" width="130px"/> 
 
 ```csharp
 💗My Profile💗

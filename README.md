@@ -7,7 +7,8 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet,javascript)
 
- <h2 align="center"> 👨‍💻 About me 📑 </h2>
+ <h2 align="center">  <p align="center">
+<a href="https://git.io/typing-svg"><img M </h2>
 
 ```sh
 > profile

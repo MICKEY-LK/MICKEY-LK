@@ -7,8 +7,12 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet,javascript)
 
- <h2 align="center">  <p align="center">
-<a href="https://git.io/typing-svg"><img M </h2>
+ <br>
+ </p>
+   <p align="center">
+<a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT;💙_𝐌𝐈𝐂𝐊𝐄𝐘 𝐌𝐃 𝘃➊_💙" alt="Typing SVG" /></a>
+---
+<div align="center">
 
 ```sh
 > profile
